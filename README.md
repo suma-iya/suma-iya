@@ -37,7 +37,7 @@ CSE student at **KUET** working across AI research, backend engineering, and com
 
 ## Competitive Programming
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumaiya%20Rahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaiya-rahim-733485294/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-430%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ultra_plusplus/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-400%2B%20Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/another_ded_girl)
 
 | Contest | Year | Result |
