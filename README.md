@@ -37,7 +37,7 @@ CSE student at **KUET** working across AI research, backend engineering, and com
 
 ## Competitive Programming
 
-[![LeetCode](https://img.shields.io/badge/Codeforces-400%2B%20Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://leetcode.com/u/ultra_plusplus/)
+[![LeetCode](https://img.shields.io/badge/Codeforces-400%2B%20Solved-1F8ACB?style=for-the-badge&logo=linkedin&logoColor=white)](https://leetcode.com/u/ultra_plusplus/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-400%2B%20Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/another_ded_girl)
 
 | Contest | Year | Result |
@@ -86,7 +86,7 @@ Efficient depthwise-separable + attention architecture for brain MRI classificat
 
 *Semi-Supervised Emotion Classification for Noisy Bangla Text*
 
-![Accepted](https://img.shields.io/badge/Accepted-yellow?style=flat-square) ![NLP](https://img.shields.io/badge/Bangla%20NLP-red?style=flat-square)
+![Published](https://img.shields.io/badge/Accepted-yellow?style=flat-square) ![NLP](https://img.shields.io/badge/Bangla%20NLP-red?style=flat-square)
 
 Context-aware semi-supervised learning for low-resource Bangla emotion detection.
 
@@ -108,7 +108,7 @@ Context-aware semi-supervised learning for low-resource Bangla emotion detection
 
 **🥗 DietRL** — *RL-Based Personalized Diet Planning*
 
-RL agents trained over **1,750+ Bangladesh-specific foods** with medical constraints and nutritional optimization for personalized meal plans.
+RL agents trained over **600+ Bangladesh-specific foods** with medical constraints and nutritional optimization for personalized meal plans.
 
 ![RL](https://img.shields.io/badge/Reinforcement%20Learning-58a6ff?style=flat-square) ![Constraint Opt](https://img.shields.io/badge/Constraint%20Optimization-orange?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -266,11 +266,12 @@ Personal portfolio with project showcase, dark mode, and smooth animations.
 
 *Open to research collaborations, graduate studies, and backend / ML engineering roles.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suma-iya)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumaiyarahim@example.com)
-[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=suma-iya)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net/profile/suma-iya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=githubpages&logoColor=white)](https://suma-iya.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaiya-rahim-733485294/)
+[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=77ZTjfcAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sumaiya-Suma-2?ev=hdr_xprf)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sumaiya.rahim234@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=githubpages&logoColor=white)](https://suma-iya.github.io/Portfolio/)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=90&section=footer" width="100%" />
 
