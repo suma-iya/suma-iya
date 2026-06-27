@@ -68,6 +68,8 @@ CSE student at **KUET** working across AI research, backend engineering, and com
 
 Open-source platform for interpretable, rule-based rental risk decisions.
 
+[![Paper](https://img.shields.io/badge/ScienceDirect-Read%20Paper-FF6B6B?style=flat-square&logo=elsevier&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S2352711026002876)
+
 </td>
 <td width="33%" valign="top">
 
@@ -79,6 +81,8 @@ Open-source platform for interpretable, rule-based rental risk decisions.
 
 Efficient depthwise-separable + attention architecture for brain MRI classification.
 
+[![Paper](https://img.shields.io/badge/IEEE%20Xplore-Read%20Paper-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11355571)
+
 </td>
 <td width="33%" valign="top">
 
@@ -86,18 +90,15 @@ Efficient depthwise-separable + attention architecture for brain MRI classificat
 
 *Semi-Supervised Emotion Classification for Noisy Bangla Text*
 
-![Published](https://img.shields.io/badge/Accepted-yellow?style=flat-square) ![NLP](https://img.shields.io/badge/Bangla%20NLP-red?style=flat-square)
+![Accepted](https://img.shields.io/badge/Accepted-yellow?style=flat-square) ![NLP](https://img.shields.io/badge/Bangla%20NLP-red?style=flat-square)
 
 Context-aware semi-supervised learning for low-resource Bangla emotion detection.
+
+[![Paper](https://img.shields.io/badge/IEEE%20Xplore-Read%20Paper-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11525915/)
 
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
 ## Current Research
 
 </div>
@@ -135,71 +136,50 @@ Review of diffusion models, GNNs, and survival models applied to longitudinal MR
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**🔍 QueueStorm AI Investigator**
+**☁️ Cloud-Native App — GoRent Backend**
 
-AI-powered log analysis and anomaly detection for distributed systems.
+Backend service in Go with RESTful APIs and microservices architecture, deployed on Linux/Ubuntu.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/ML-orange?style=flat-square)
-[![View](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/QueueStorm-AI-Investigator)
-
-</td>
-<td width="33%" valign="top">
-
-**🏠 GoRent**
-
-Rental risk assessment platform — published in SoftwareX (Elsevier).
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=flat-square)
 [![View](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/GoRent)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**🥗 DietRL**
+**🛒 Laravel E-Commerce Platform**
 
-Personalized nutrition via RL over a 1,750+ item Bangladesh food database.
+Scalable full-stack platform with authentication, product management, and admin dashboard using MVC.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-[![View](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/DietRL)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![View](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/LaravelEcommerceProject)
 
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**🛒 Laravel Ecommerce**
+**🤝 Esale — E-Commerce System**
 
-Full-featured multi-vendor store with REST API and payment gateway.
+Team-built e-commerce system using GitHub for distributed development, code review, and agile workflows.
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-[![View](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/Laravel-Ecommerce)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![View](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/Esale)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**📚 MyLearningApp**
+**📱 MyLearningApp — Android App**
 
-Mobile learning platform with quiz engine and real-time progress tracking.
+Android app for programming education with quiz functionality and clean UI design.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 [![View](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/MyLearningApp)
-
-</td>
-<td width="33%" valign="top">
-
-**🌐 Portfolio**
-
-Personal portfolio with project showcase, dark mode, and smooth animations.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-[![View](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/Portfolio)
 
 </td>
 </tr>
 </table>
-
 ---
 
 <div align="center">
