@@ -9,20 +9,19 @@
 
 # Sumaiya Rahim
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+Researcher;Backend+Developer;Competitive+Programmer;Software+Engineering+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Backend+Developer;AI+Researcher;Competitive+Programmer;Software+Engineering+Researcher" alt="Typing SVG" />
 
 **B.Sc. CSE · KUET, Bangladesh · 2026**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/suma-iya)
-[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=suma-iya)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://researchgate.net/profile/suma-iya)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sumaiyarahim@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaiya-rahim-733485294/)
+[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=77ZTjfcAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sumaiya-Suma-2?ev=hdr_xprf)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sumaiya.rahim234@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=githubpages&logoColor=white)](https://suma-iya.github.io/Portfolio/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=suma-iya&style=flat-square&color=58a6ff&label=VIEWS)
-[![Followers](https://img.shields.io/github/followers/suma-iya?style=flat-square&color=58a6ff&logo=github&label=FOLLOWERS)](https://github.com/suma-iya?tab=followers)
+
 
 </div>
 
@@ -38,8 +37,8 @@ CSE student at **KUET** working across AI research, backend engineering, and com
 
 ## Competitive Programming
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-430%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/suma-iya)
-[![Codeforces](https://img.shields.io/badge/Codeforces-400%2B%20Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/suma-iya)
+[![LeetCode](https://leetcode.com/u/ultra_plusplus/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-400%2B%20Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/another_ded_girl)
 
 | Contest | Year | Result |
 |:--|:--:|:--|
