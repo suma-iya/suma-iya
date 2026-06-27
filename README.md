@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=110&section=header" width="100%" />
 
 <!-- Dual profile photos -->
 <img src="./assets/aboutPhoto.jpg" width="200" style="border-radius:50%; border:3px solid #58a6ff; margin: 0 12px;" alt="Sumaiya Rahim" />&nbsp;&nbsp;&nbsp;
