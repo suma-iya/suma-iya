@@ -4,7 +4,7 @@
 
 <!-- Dual profile photos -->
 <img src="https://avatars.githubusercontent.com/suma-iya" width="200" style="border-radius:50%; border:3px solid #58a6ff; margin: 0 12px;" alt="Sumaiya Rahim" />&nbsp;&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/suma-iya" width="200" style="border-radius:50%; border:3px solid #30363d; margin: 0 12px;" alt="Sumaiya Rahim" />
+
 
 <br/>
 
