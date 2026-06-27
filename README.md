@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=110&section=header" width="100%" />
 
-<img src="https://avatars.githubusercontent.com/suma-iya" width="120" style="border-radius:50%;" alt="Sumaiya Rahim" />
+<!-- Dual profile photos -->
+<img src="https://avatars.githubusercontent.com/suma-iya" width="200" style="border-radius:50%; border:3px solid #58a6ff; margin: 0 12px;" alt="Sumaiya Rahim" />&nbsp;&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/suma-iya" width="200" style="border-radius:50%; border:3px solid #30363d; margin: 0 12px;" alt="Sumaiya Rahim" />
 
 <br/>
 
@@ -18,7 +20,7 @@
 [![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=suma-iya)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://researchgate.net/profile/suma-iya)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sumaiyarahim@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](https://sumaiyarahim.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=githubpages&logoColor=white)](https://suma-iya.github.io/Portfolio/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suma-iya&style=flat-square&color=58a6ff&label=VIEWS)
 [![Followers](https://img.shields.io/github/followers/suma-iya?style=flat-square&color=58a6ff&logo=github&label=FOLLOWERS)](https://github.com/suma-iya?tab=followers)
@@ -29,7 +31,7 @@
 
 ## About Me
 
-CSE student at **KUET** working across AI research, backend engineering, and competitive programming. My research spans **Medical AI**, **Reinforcement Learning**, **NLP**, and **Software Engineering** — with three publications in SoftwareX (Elsevier) and IEEE venues. Outside the lab I build backend systems with clean REST APIs, think through distributed architecture, and mentor junior programmers in algorithmic problem-solving.
+CSE student at **KUET** working across AI research, backend engineering, and competitive programming. My research spans Medical AI, Reinforcement Learning, NLP, and Software Engineering — with three publications in SoftwareX (Elsevier) and IEEE venues. Outside the lab I build backend systems, explore distributed architecture, and mentor junior programmers in algorithmic problem-solving.
 
 ---
 
@@ -64,8 +66,7 @@ CSE student at **KUET** working across AI research, backend engineering, and com
 
 *GoRent: Open-Source Software for Transparent Rule-Based Rental Risk Assessment*
 
-![Published](https://img.shields.io/badge/Published-brightgreen?style=flat-square)
-![Elsevier](https://img.shields.io/badge/Elsevier-orange?style=flat-square)
+![Published](https://img.shields.io/badge/Published-brightgreen?style=flat-square) ![Elsevier](https://img.shields.io/badge/Elsevier-orange?style=flat-square)
 
 Open-source platform for interpretable, rule-based rental risk decisions.
 
@@ -76,8 +77,7 @@ Open-source platform for interpretable, rule-based rental risk decisions.
 
 *DSCBAM-Net: Lightweight Neural Network for Automated Brain Tumor Classification*
 
-![Published](https://img.shields.io/badge/Published-brightgreen?style=flat-square)
-![Medical AI](https://img.shields.io/badge/Medical%20AI-purple?style=flat-square)
+![Published](https://img.shields.io/badge/Published-brightgreen?style=flat-square) ![Medical AI](https://img.shields.io/badge/Medical%20AI-purple?style=flat-square)
 
 Efficient depthwise-separable + attention architecture for brain MRI classification.
 
@@ -88,8 +88,7 @@ Efficient depthwise-separable + attention architecture for brain MRI classificat
 
 *Semi-Supervised Emotion Classification for Noisy Bangla Text*
 
-![Accepted](https://img.shields.io/badge/Accepted-yellow?style=flat-square)
-![NLP](https://img.shields.io/badge/Bangla%20NLP-red?style=flat-square)
+![Accepted](https://img.shields.io/badge/Accepted-yellow?style=flat-square) ![NLP](https://img.shields.io/badge/Bangla%20NLP-red?style=flat-square)
 
 Context-aware semi-supervised learning for low-resource Bangla emotion detection.
 
@@ -111,22 +110,18 @@ Context-aware semi-supervised learning for low-resource Bangla emotion detection
 
 **🥗 DietRL** — *RL-Based Personalized Diet Planning*
 
-RL agents trained over **1,750+ Bangladesh-specific foods** with medical constraints and nutritional optimization for truly personalized meal plans.
+RL agents trained over **1,750+ Bangladesh-specific foods** with medical constraints and nutritional optimization for personalized meal plans.
 
-![RL](https://img.shields.io/badge/Reinforcement%20Learning-58a6ff?style=flat-square)
-![Medical AI](https://img.shields.io/badge/Medical%20AI-purple?style=flat-square)
-![Constraint Opt](https://img.shields.io/badge/Constraint%20Optimization-orange?style=flat-square)
+![RL](https://img.shields.io/badge/Reinforcement%20Learning-58a6ff?style=flat-square) ![Constraint Opt](https://img.shields.io/badge/Constraint%20Optimization-orange?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 **🧬 Alzheimer's Review** — *DL for Disease Progression Modeling*
 
-Review of diffusion models, graph neural networks, and survival models applied to longitudinal MRI for Alzheimer's progression.
+Review of diffusion models, GNNs, and survival models applied to longitudinal MRI for Alzheimer's progression modeling.
 
-![Diffusion](https://img.shields.io/badge/Diffusion%20Models-red?style=flat-square)
-![GNN](https://img.shields.io/badge/Graph%20Neural%20Networks-blue?style=flat-square)
-![Longitudinal MRI](https://img.shields.io/badge/Longitudinal%20MRI-grey?style=flat-square)
+![Diffusion](https://img.shields.io/badge/Diffusion%20Models-red?style=flat-square) ![GNN](https://img.shields.io/badge/Graph%20Neural%20Networks-blue?style=flat-square) ![MRI](https://img.shields.io/badge/Longitudinal%20MRI-555?style=flat-square)
 
 </td>
 </tr>
@@ -148,20 +143,18 @@ Review of diffusion models, graph neural networks, and survival models applied t
 
 AI-powered log analysis and anomaly detection for distributed systems.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/ML-orange?style=flat-square)
-[![Repo](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/queuestorm-ai)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/ML-orange?style=flat-square)
+[![View](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/QueueStorm-AI-Investigator)
 
 </td>
 <td width="33%" valign="top">
 
 **🏠 GoRent**
 
-Open-source rental risk platform — published in SoftwareX (Elsevier).
+Rental risk assessment platform — published in SoftwareX (Elsevier).
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-[![Repo](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/gorent)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![View](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/GoRent)
 
 </td>
 <td width="33%" valign="top">
@@ -170,9 +163,8 @@ Open-source rental risk platform — published in SoftwareX (Elsevier).
 
 Personalized nutrition via RL over a 1,750+ item Bangladesh food database.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-[![Repo](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/dietrl)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+[![View](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/DietRL)
 
 </td>
 </tr>
@@ -183,30 +175,28 @@ Personalized nutrition via RL over a 1,750+ item Bangladesh food database.
 
 Full-featured multi-vendor store with REST API and payment gateway.
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-[![Repo](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/laravel-ecommerce)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![View](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/Laravel-Ecommerce)
 
 </td>
 <td width="33%" valign="top">
 
 **📚 MyLearningApp**
 
-Mobile learning platform with quiz engine and progress tracking.
+Mobile learning platform with quiz engine and real-time progress tracking.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-[![Repo](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/mylearningapp)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+[![View](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/MyLearningApp)
 
 </td>
 <td width="33%" valign="top">
 
 **🌐 Portfolio**
 
-Developer portfolio with project showcase and dark mode.
+Personal portfolio with project showcase, dark mode, and smooth animations.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-[![Repo](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/portfolio)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+[![View](https://img.shields.io/badge/GitHub-View-161b22?style=flat-square&logo=github)](https://github.com/suma-iya/Portfolio)
 
 </td>
 </tr>
@@ -258,28 +248,19 @@ Developer portfolio with project showcase and dark mode.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suma-iya&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" />
+<img src="https://streak-stats.demolab.com?user=suma-iya&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=suma-iya&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%" />
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-## Achievements
-
-| | |
-|:--|:--|
-| 📗 **SoftwareX (Elsevier)** | Journal publication — GoRent |
-| 📘 **IEEE EICT** | Conference paper — DSCBAM-Net |
-| 📙 **IEEE WIECON-ECE** | Accepted paper — Bangla NLP |
-| 🥇 **CodeMania 2023** | Ranked 8th nationally |
-| 🌐 **ICPC Asia Dhaka Regional** | 2024 Contestant |
-| 👩‍💻 **Mentorship** | Junior competitive programmers |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suma-iya/suma-iya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suma-iya/suma-iya/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/suma-iya/suma-iya/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 ---
 
@@ -289,9 +270,9 @@ Developer portfolio with project showcase and dark mode.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suma-iya)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumaiyarahim@example.com)
-[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://sumaiyarahim.dev)
+[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=suma-iya)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net/profile/suma-iya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=githubpages&logoColor=white)](https://suma-iya.github.io/Portfolio/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=90&section=footer" width="100%" />
 
