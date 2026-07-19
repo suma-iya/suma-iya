@@ -1,9 +1,8 @@
 <div align="center">
 
 
-<!-- Dual profile photos -->
-<img src="./assets/aboutPhoto.jpg" width="200" style="border-radius:50%; border:3px solid #58a6ff; margin: 0 12px;" alt="Sumaiya Rahim" />&nbsp;&nbsp;&nbsp;
-
+<!-- Profile photo -->
+<img src="https://raw.githubusercontent.com/suma-iya/suma-iya/main/assets/aboutPhoto.jpg" width="200" style="border-radius:50%; border:3px solid #58a6ff; margin: 0 12px;" alt="Sumaiya Rahim" />
 
 <br/>
 
@@ -99,6 +98,9 @@ Context-aware semi-supervised learning for low-resource Bangla emotion detection
 </td>
 </tr>
 </table>
+
+<div align="center">
+
 ## Current Research
 
 </div>
@@ -180,6 +182,7 @@ Android app for programming education with quiz functionality and clean UI desig
 </td>
 </tr>
 </table>
+
 ---
 
 <div align="center">
