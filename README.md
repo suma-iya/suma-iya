@@ -18,7 +18,7 @@
 [![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=77ZTjfcAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sumaiya-Suma-2?ev=hdr_xprf)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sumaiya.rahim234@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=githubpages&logoColor=white)](https://suma-iya.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=github&logoColor=white)](https://suma-iya.github.io/Portfolio/)
 
 
 
@@ -253,7 +253,7 @@ Android app for programming education with quiz functionality and clean UI desig
 [![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=77ZTjfcAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sumaiya-Suma-2?ev=hdr_xprf)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sumaiya.rahim234@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=githubpages&logoColor=white)](https://suma-iya.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=github&logoColor=white)](https://suma-iya.github.io/Portfolio/)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=90&section=footer" width="100%" />
