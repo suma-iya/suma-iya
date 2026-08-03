@@ -31,11 +31,15 @@ CSE student at **KUET** working across AI research, backend engineering, and com
 
 </div>
 
+<div align="center">
+
 | Contest | Year | Result |
 |:--|:--:|:--|
 | ICPC Asia Dhaka Regional | 2024 | Regional Contestant |
 | National Girls Programming Contest | 2022 | Participant |
 | CodeMania | 2023 | 🥇 Ranked 8th |
+
+</div>
 
 ---
 
